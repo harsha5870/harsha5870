@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Cyber%20Security%20%26%20Forensics%20Student&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Digital%20Forensics%20%7C%20Threat%20Hunter&descAlignY=55&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12&amp;height=200&amp;section=header&amp;text=Cyber%20Security%20%26%20Forensics%20Student&amp;fontSize=40&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=SOC%20Analyst%20%7C%20Digital%20Forensics%20%7C%20Threat%20Hunter&amp;descAlignY=55&amp;descAlign=50" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Forensics+Student;Future+SOC+Analyst;Digital+Forensics+Enthusiast;Threat+Hunting+Learner;Incident+Response+Explorer;Security+Operations+Focus" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=25&amp;duration=3000&amp;pause=500&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Cybersecurity+%26+Forensics+Student;Future+SOC+Analyst;Digital+Forensics+Enthusiast;Threat+Hunting+Learner;Incident+Response+Explorer;Security+Operations+Focus" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <a href="https://www.hackthebox.com/profile/019cd20a-9f17-720f-ba49-309ad66e4922"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"></a>
-  <a href="https://www.linkedin.com/in/harsha-vardhan-r-61b561340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:harshavardhanr.iet@srinivasuniversity.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.hackthebox.com/profile/019cd20a-9f17-720f-ba49-309ad66e4922"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=9FEF00" alt="HackTheBox"></a>
+  <a href="https://www.linkedin.com/in/harsha-vardhan-r-61b561340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:harshavardhanr.iet@srinivasuniversity.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsha5870&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=harsha5870&amp;label=Profile%20Views&amp;color=8B5CF6&amp;style=flat-square" alt="Profile Views">
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <b>Cybersecurity & Digital Forensics Student</b> with a deep passion for SOC operations, threat hunting, and incident response.
+  <b>Cybersecurity &amp; Digital Forensics Student</b> with a deep passion for SOC operations, threat hunting, and incident response.
 </p>
 
 - 🔍 Passionate about **SOC Operations**, **Digital Forensics**, and **Threat Hunting**
@@ -36,24 +36,24 @@
 
 <p align="center">
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash,linux" />
 </p>
 
 <p align="center">
-  <b>Security Tools & Platforms</b><br>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/Nmap-0E0E0E?style=for-the-badge&logo=nmap&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
-  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-  <img src="https://img.shields.io/badge/Snort-FF4B4B?style=for-the-badge&logo=snort&logoColor=white">
+  <b>Security Tools &amp; Platforms</b><br>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Nmap-0E0E0E?style=for-the-badge&amp;logo=nmap&amp;logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&amp;logo=splunk&amp;logoColor=white" alt="Splunk">
+  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&amp;logo=elasticsearch&amp;logoColor=white" alt="Elastic Search">
+  <img src="https://img.shields.io/badge/Snort-FF4B4B?style=for-the-badge&amp;logo=snort&amp;logoColor=white" alt="Snort">
 </p>
 
 <p align="center">
-  <b>Forensics & Analysis</b><br>
-  <img src="https://img.shields.io/badge/Autopsy-2C2D72?style=for-the-badge&logo=autopsy&logoColor=white">
-  <img src="https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logo=volatility&logoColor=white">
-  <img src="https://img.shields.io/badge/FTK-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  <b>Forensics &amp; Analysis</b><br>
+  <img src="https://img.shields.io/badge/Autopsy-2C2D72?style=for-the-badge&amp;logo=autopsy&amp;logoColor=white" alt="Autopsy">
+  <img src="https://img.shields.io/badge/Volatility-000000?style=for-the-badge&amp;logo=volatility&amp;logoColor=white" alt="Volatility">
+  <img src="https://img.shields.io/badge/FTK-0078D4?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="FTK">
 </p>
 
 ---
@@ -65,7 +65,7 @@
 | **SOC Operations** | ⭐⭐⭐ | SIEM monitoring, alert triage, incident investigation |
 | **Digital Forensics** | ⭐⭐⭐ | Disk forensics, memory analysis, forensic imaging |
 | **Network Security** | ⭐⭐⭐⭐ | Packet analysis, intrusion detection, network monitoring |
-| **Threat Hunting** | ⭐⭐ | MITRE ATT&CK, threat intelligence, anomaly detection |
+| **Threat Hunting** | ⭐⭐ | MITRE ATT&amp;CK, threat intelligence, anomaly detection |
 | **Incident Response** | ⭐⭐⭐ | Playbook development, forensic analysis, IR procedures |
 | **Malware Analysis** | ⭐⭐ | Static analysis, dynamic analysis, reverse engineering |
 
@@ -144,46 +144,47 @@
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://profile.hackthebox.com/profile/019cd20a-9f17-720f-ba49-309ad66e4922"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"></a>
-  <a href="https://github.com/harsha5870"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED"></a>
+  <a href="https://profile.hackthebox.com/profile/019cd20a-9f17-720f-ba49-309ad66e4922"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=9FEF00" alt="HackTheBox"></a>
+  <a href="https://github.com/harsha5870"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=7C3AED" alt="GitHub"></a>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github.com/harsha5870/harsha5870/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
+</p>
 
-> **Note:** The snake animation is automatically generated via a GitHub Action. If you don't see it, please ensure you have set up the workflow (see instructions below).
+> **Note:** The snake animation is generated automatically via a GitHub Action. To enable it, create `.github/workflows/snake.yml` with the content below. After the first run, the snake will appear here.
 
----
-
-## 🎯 Career Focus
+<details>
+  <summary><b>📄 Workflow file (click to expand)</b></summary>
 
 ```yaml
-Learning:
-  - Advanced Threat Intelligence
-  - AI-Powered Security Analytics
-  - Digital Forensics Methodologies
-  - Malware Analysis and Reverse Engineering
-  - Cloud Security Fundamentals
+name: Generate Snake Animation
 
-Building:
-  - SIEM automation scripts
-  - Incident response playbooks
-  - Forensic investigation tools
-  - Threat hunting frameworks
+on:
+  schedule:
+    - cron: "0 0 * * *"  # daily
+  workflow_dispatch:
 
-Exploring:
-  - Security operations best practices
-  - Forensic artifact analysis
-  - Advanced persistent threat tracking
-  - Cyber threat intelligence
-
-Open To:
-  - Entry-level SOC Analyst positions
-  - Cybersecurity internships
-  - Digital Forensics roles
-  - Security Operations opportunities
-  - Mentorship in cybersecurity
-  - Collaborations on security projects
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: harsha5870
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
