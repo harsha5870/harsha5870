@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.hackthebox.com/profile/019cd20a-9f17-720f-ba49-309ad66e4922">
+  <a href="https://profile.hackthebox.com/profile/019cd20a-9f17-720f-ba49-309ad66e4922">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox">
   </a>
   <a href="https://www.linkedin.com/in/harsha-vardhan-r-61b561340/">
