@@ -12,10 +12,6 @@
   <a href="mailto:harshavardhanr.iet@srinivasuniversity.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsha5870&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views">
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -154,8 +150,6 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-
-
 ---
 
 ## 🎯 Career Focus
@@ -187,3 +181,4 @@ Open To:
   - Security Operations opportunities
   - Mentorship in cybersecurity
   - Collaborations on security projects
+```
