@@ -255,11 +255,23 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🌐 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img src="https://github.com/your-username/your-username/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="800" />
 </p>
+
+> **Note:** This 3D graph is automatically generated daily via a GitHub Action. If you don't see it, set up the [profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) action.
+
+---
+
+## 🐍 Snake Game – Contribution Grid Animation
+
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
+</p>
+
+> This snake eats your contributions, making them disappear – a fun visual of your activity!
 
 ---
 
