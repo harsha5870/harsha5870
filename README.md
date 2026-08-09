@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://www.hackthebox.com/profile/019cd20a-9f17-720f-ba49-309ad66e4922"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harsha-vardhan-r-61b561340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:harshavardhanr.iet@srinivasuniversity.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/harsha5870"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -146,8 +146,7 @@
 
 <p align="center">
   <a href="https://profile.hackthebox.com/profile/019cd20a-9f17-720f-ba49-309ad66e4922"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"></a>
-  <a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=8B5CF6"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED"></a>
+  <a href="https://github.com/harsha5870"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED"></a>
 </p>
 
 ---
