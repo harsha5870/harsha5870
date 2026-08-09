@@ -36,14 +36,14 @@
 
 <p align="center">
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux" />
 </p>
 
 <p align="center">
   <b>Security Tools & Platforms</b><br>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
   <img src="https://img.shields.io/badge/Nmap-0E0E0E?style=for-the-badge&logo=nmap&logoColor=white">
-  <imgsrc="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
   <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/Snort-FF4B4B?style=for-the-badge&logo=snort&logoColor=white">
