@@ -143,14 +143,20 @@
 
 ---
 
-## 💻 Coding Profiles
+## 🎯 Hands-on Experience Platforms
 
 <p align="center">
   <a href="https://profile.hackthebox.com/profile/019cd20a-9f17-720f-ba49-309ad66e4922">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox">
   </a>
-  <a href="https://github.com/harsha5870">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED" alt="GitHub">
+  <a href="https://app.letsdefend.io/user/XHARSHA88">
+    <img src="https://img.shields.io/badge/LetsDefend-FF4655?style=for-the-badge&logoColor=white" alt="LetsDefend">
+  </a>
+  <a href="https://www.kc7cyber.com/">
+    <img src="https://img.shields.io/badge/KC7-0078D4?style=for-the-badge&logoColor=white" alt="KC7">
+  </a>
+  <a href="https://cyberdefenders.org/p/harsha5870">
+    <img src="https://img.shields.io/badge/CyberDefenders-1E3A8A?style=for-the-badge&logoColor=white" alt="CyberDefenders">
   </a>
 </p>
 
