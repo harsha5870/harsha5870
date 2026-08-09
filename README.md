@@ -192,7 +192,7 @@ Overview: Completed a hands-on Cyber Security course and an academic project tit
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
