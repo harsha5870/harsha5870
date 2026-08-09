@@ -265,14 +265,7 @@
 
 ---
 
-## 🐍 Snake Game – Contribution Grid Animation
-
-<p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
-</p>
-
-> This snake eats your contributions, making them disappear – a fun visual of your activity!
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 ---
 
 ## 🎯 Current Focus
