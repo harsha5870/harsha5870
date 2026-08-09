@@ -137,11 +137,40 @@
 
 ---
 
-## 💼 Experience
+💼 Experience
+<details>
+<summary><b>🔧 Embedded Application Developer — Semperonic Labs</b></summary>
 
-*Internship details coming soon...*
 
----
+Duration: May 6, 2025 – May 31, 2025
+
+Role: Embedded Application Developer Intern
+
+Overview: Built UI/dashboards for IoT hardware projects, enabling real-time visualization of sensor data (temperature, moisture, power) through live graphs.
+
+| Stack | Responsibilities | Outcome |
+|-------|-------------------|---------|
+| Arduino Uno, ESP32, Raspberry Pi 4B, Python (Tkinter) | Designed UI for hardware/IoT projects, interfaced with sensors, built real-time data pipelines | Delivered a real-time monitoring dashboard displaying live sensor graphs for temperature, moisture, and power |
+
+
+</details>
+
+<details>
+<summary><b>🛡️ Cybersecurity Intern — Tech Vedhu</b></summary>
+
+
+Duration: May 13, 2026 – July 13, 2026
+
+Role: Cybersecurity Intern
+
+Overview: Completed a hands-on Cyber Security course and an academic project titled "Object-Oriented Programming Using Cyber Security," strengthening foundations in secure coding practices and applied cybersecurity concepts.
+
+| Stack | Responsibilities | Outcome |
+|-------|-------------------|---------|
+| Cyber Security fundamentals, OOP concepts | Completed structured coursework and a capstone project applying OOP principles to cybersecurity scenarios | Certified in Cyber Security (Course Completion) and Project Completion, recognized under Startup India, MSME, and Skill India initiatives |
+
+
+</details>
 
 ## 🎯 Hands-on Experience Platforms
 
