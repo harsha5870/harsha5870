@@ -171,7 +171,7 @@ Overview: Completed a hands-on Cyber Security course and an academic project tit
 
 
 </details>
-
+ 
 ## 🎯 Hands-on Experience Platforms
 
 <p align="center">
