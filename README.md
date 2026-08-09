@@ -36,7 +36,7 @@
 
 <p align="center">
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux" />
 </p>
 
 <p align="center">
@@ -152,39 +152,38 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/harsha5870/harsha5870/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-> **Note:** The snake animation is generated automatically via a GitHub Action. To enable it, create `.github/workflows/snake.yml` with the content below. After the first run, the snake will appear here.
+> **Note:** The snake animation is automatically generated via a GitHub Action. If you don't see it, please ensure you have set up the workflow (see instructions below).
 
-<details>
-  <summary><b>📄 Workflow file (click to expand)</b></summary>
+---
+
+## 🎯 Career Focus
 
 ```yaml
-name: Generate Snake Animation
+Learning:
+  - Advanced Threat Intelligence
+  - AI-Powered Security Analytics
+  - Digital Forensics Methodologies
+  - Malware Analysis and Reverse Engineering
+  - Cloud Security Fundamentals
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # daily
-  workflow_dispatch:
+Building:
+  - SIEM automation scripts
+  - Incident response playbooks
+  - Forensic investigation tools
+  - Threat hunting frameworks
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: harsha5870
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+Exploring:
+  - Security operations best practices
+  - Forensic artifact analysis
+  - Advanced persistent threat tracking
+  - Cyber threat intelligence
+
+Open To:
+  - Entry-level SOC Analyst positions
+  - Cybersecurity internships
+  - Digital Forensics roles
+  - Security Operations opportunities
+  - Mentorship in cybersecurity
+  - Collaborations on security projects
