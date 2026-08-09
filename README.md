@@ -152,9 +152,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/harsha5870/harsha5870/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 > **Note:** The snake animation is automatically generated via a GitHub Action. If you don't see it, please ensure you have set up the workflow (see instructions below).
 
