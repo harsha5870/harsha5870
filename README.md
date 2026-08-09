@@ -23,15 +23,16 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <b>Cybersecurity & Digital Forensics Student</b> with a deep passion for SOC operations, threat hunting, and incident response.
+  <b>Harsha Vardhan R</b> — Cyber Security & Cyber Forensics student passionate about SOC operations, threat hunting, and incident response.
 </p>
 
+- 🎓 Pursuing **B.Tech in Cyber Security & Cyber Forensics** at **Srinivas University**, Mukka, Mangalore — currently in **4th Year, 7th Semester**
 - 🔍 Passionate about **SOC Operations**, **Digital Forensics**, and **Threat Hunting**
 - 🛡️ Learning **Security Operations**, **Incident Response**, and **Malware Analysis**
 - 🌐 Building hands-on skills in **SIEM**, **Network Security**, and **Forensic Analysis**
+- 💻 Applying knowledge through **real-world projects**, **internships**, and **hands-on CTF/SOC platforms**
 - 📈 Dedicated to continuous learning in the cybersecurity domain
 - 🚀 **Goal:** To become a proficient SOC Analyst and contribute to security operations
-
 ---
 
 ## 🛠️ Tech Stack
